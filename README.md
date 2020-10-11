@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - aka [TraXIcon][website] 👋
+### Hi there, I'm Aditya - aka [TraXIcoN][website] 👋
 
 ## I'm a Developer, and a Student!!
 
