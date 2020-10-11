@@ -59,7 +59,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![TraXIcoN's github stats](https://github-readme-stats.vercel.app/api?TraXIcoN=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![TraXIcoN's github stats](https://github-readme-stats.vercel.app/api?username=TraXIcoN)](https://github.com/TraXIcoN/github-readme-stats)
 
 </details>
 
