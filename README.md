@@ -49,5 +49,5 @@
 [website]: https://github.com/TraXIcoN
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/TraXIcoN
-[instagram]: https://www.instagram.com/xmysteriousx16/
+[instagram]: https://www.instagram.com/chiflado_adiiii16/
 [linkedin]: https://www.linkedin.com/in/aditya-mohan-b1ba7a182/
