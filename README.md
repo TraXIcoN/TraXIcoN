@@ -3,9 +3,9 @@
 ## I'm a Developer, and a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects & GSOC
-- ⚡ Fun fact: I love to play video-games and guitar
+- 👯 I’m looking to collaborate with other programmers
+- 🥅 2021 Goals: Contribute more to Open Source projects & GSOC
+- ⚡ Fun fact: My first love: Video-Games
 
 
 ![Programming](https://media.giphy.com/media/3orifgbK2qhORanAty/giphy.gif)
@@ -47,7 +47,6 @@
 </details>
 
 [website]: https://github.com/TraXIcoN
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/TraXIcoN
+[twitter]: https://twitter.com/chifladoadiii16
 [instagram]: https://www.instagram.com/chiflado_adiiii16/
 [linkedin]: https://www.linkedin.com/in/aditya-mohan-b1ba7a182/
