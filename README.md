@@ -46,7 +46,7 @@
 
 </details>
 
-[website]: https://github.com/TraXIcoN
+[website]: https://traxicon.github.io/
 [twitter]: https://twitter.com/chifladoadiii16
 [instagram]: https://www.instagram.com/chiflado_adiiii16/
 [linkedin]: https://www.linkedin.com/in/aditya-mohan-b1ba7a182/
