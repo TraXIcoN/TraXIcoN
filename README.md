@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Contribute more to Open Source projects & GSOC
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: My first love: Video-Games
 
 
