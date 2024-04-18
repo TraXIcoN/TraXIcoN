@@ -1,52 +1,61 @@
-### Hi there, I'm Aditya - aka [TraXIcoN][website] 👋
-
-## I'm a Developer, and a Student!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: My first love: Video-Games
+<div align="center">
+ <img src="./gif.gif" alt="gif" border="0"><br />
+</div>
 
 
-![Programming](https://media.giphy.com/media/3orifgbK2qhORanAty/giphy.gif)
+<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/TraXIcoN" target="_blank">Aditya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### Connect with me:
+## 🙋‍♂️ About Me
 
-[<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="# | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="# | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="# | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
+<a href="https://github.com/Elkhan2003">
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Full-Stack+Developer+And+More"/>
+</a>
 
-### Languages and Tools:
+## 📊 My Github Stats
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="https://github.com/TraXIcoN"><img alt="Aditya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TraXIcoN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+</a>
+<a href="https://github.com/TraXIcoN"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TraXIcoN&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+</a>
+</div>
 
----
+<p align="center">
+    <a href="https://github.com/TraXIcoN">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya Mohans's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TraXIcoN&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## 🚀 Languages and Tools
 
-  [![TraXIcoN's github stats](https://github-readme-stats.vercel.app/api?username=TraXIcoN)](https://github.com/TraXIcoN/github-readme-stats)
+<p align="left">
+    <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
+    <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank">&nbsp<img  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/>&nbsp</a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">&nbsp<img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a>
+    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/myc6m6B/ica-FVm-C2-2x.jpg"/>&nbsp</a> 
+    <a href="https://sass-scss.ru/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
+    <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a> 
+    <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.python.org/" target="_blank"><img width="45px" src="https://www.python.org/static/community_logos/python-logo.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="45px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
+    <a href="https://www.java.com/" target="_blank"><img width="42px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
+    <a href="https://www.docker.com/" target="_blank"><img width="42px" src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+    <a href="https://kubernetes.io/" target="_blank"><img width="44px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
+    <a href="https://azure.microsoft.com/" target="_blank"><img width="44px" src="https://img.icons8.com/color/48/000000/azure-1.png"/></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img width="44px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img width="44px" src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+    <a href="https://angular.io/" target="_blank"><img width="44px" src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
+    <a href="https://www.w3schools.com/sql/" target="_blank"><img width="44px" src="https://img.icons8.com/ios-filled/50/000000/sql.png"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img width="44px" src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+    <a href="https://redis.io/" target="_blank"><img width="44px" src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"><img width="44px" src="https://img.icons8.com/color/48/000000/machine-learning.png"/></a>
+</p>
 
-</details>
 
-[website]: https://traxicon.github.io/
-[twitter]: https://twitter.com/chifladoadiii16
-[instagram]: https://www.instagram.com/chiflado_adiiii16/
-[linkedin]: https://www.linkedin.com/in/aditya-mohan-b1ba7a182/
+<br/>
